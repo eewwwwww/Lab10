@@ -100,3 +100,4 @@ plt.scatter(cars['mpg'], cars['hp'])
 #set the linewidth on the regression line to
 plt.plot(cars['mpg'], m * cars['mpg'] + b, color="red", linewidth=3)
 plt.show()
+gsggfe
