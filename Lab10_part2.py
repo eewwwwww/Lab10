@@ -102,3 +102,4 @@ plt.plot(cars['mpg'], m * cars['mpg'] + b, color="red", linewidth=3)
 plt.show()
 gsggfe
 oy8fodot7od7t
+yrykyrkyrkykk
